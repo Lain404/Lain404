@@ -1,9 +1,9 @@
 # Readme
-Year's reading progress *2/16*
+Year's reading progress *3/17*
 
-Dota2 MMR *2010/4330*
+Dota2 MMR *2320/4330*
 
-Fresh Air *0.5/10*
+Fresh Air *0.55/10*
 
 Currently dealing with Textpapers *1/∞*
 
